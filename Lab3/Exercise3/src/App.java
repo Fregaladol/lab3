@@ -59,6 +59,7 @@ public class App {
         }
         while(!answer);
 
+        scanner.close();
         
     }
 }
