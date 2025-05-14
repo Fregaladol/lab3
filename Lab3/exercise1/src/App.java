@@ -21,11 +21,12 @@ public class App {
                 break;
             case "otoño":
                 System.out.println("Cafeeeee");
+                break;
             case "invierno":
                 System.out.println("Winter is coming! brrrr");
                 break;
             default:
-                System.out.println("Dije estación del año, Primeravera, Verano, Otoño, Invierno");
+                System.out.println("Dije estación del año, Primavera, Verano, Otoño, Invierno");
         }
         
         scanner.close();
